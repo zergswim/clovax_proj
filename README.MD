@@ -1,3 +1,6 @@
+# 설명자료
+https://docs.google.com/presentation/d/1aaLObLDJnO8Ms1vcqV4MRQjvR3J1amsMp72lA1VCnTs/edit?usp=sharing
+
 # CLOVA X API KEY 설정
 ./secret_ky.py 에 CLOAVA X 키설정 (API_KEY, API_KEY_PRIMAL_VAL, CLIENT_ID, CLIENT_SECRET)
 
